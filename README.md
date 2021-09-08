@@ -16,6 +16,3 @@ Tenho 21 anos.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-guimaraes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <div>
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
-  <i class="devicon-bootstrap-plain-wordmark"></i>
-</div>
