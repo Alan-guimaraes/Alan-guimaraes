@@ -1,16 +1,21 @@
-### Hi there 👋
+## Olá, mundo! 👋 Me chamo Alan Guimarães!🧔🏻‍
 
-<!--
-**Alan-guimaraes/Alan-guimaraes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 21 anos. 
 
-Here are some ideas to get you started:
+-Atualmente trabalho como motoboy por aplicativo Ifood  🏍️. Mas estou a procura de um emprego na minha area. ☀️✅
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Faço faculdade de Análise e Desenvolvimento de Sistemas.🚀👨‍💻🚀
+
+-Estou estudando Front-End, mas claro que saio da curva e vejo diversas informações.👨‍💻
+
+-Fique a vontade para ver meus commits. ❤️‍🔥
+
+ <div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alan-guimaraes&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alan-guimaraes&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+<div>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.13.0/devicon.min.css">
+  <i class="devicon-bootstrap-plain-wordmark"></i>
+</div>
