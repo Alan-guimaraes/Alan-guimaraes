@@ -2,7 +2,7 @@
 
 Tenho 21 anos. 
 
--Atualmente trabalho como motoboy por aplicativo Ifood  🏍️. Mas estou a procura de um emprego na minha area. ☀️✅
+-Atualmente trabalho como motoboy por aplicativo Ifood  🏍️. Mas estou a procura de um emprego na minha área. ☀️✅
 
 -Faço faculdade de Análise e Desenvolvimento de Sistemas.🚀👨‍💻🚀
 
