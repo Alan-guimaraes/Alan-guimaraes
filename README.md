@@ -9,7 +9,7 @@ Tenho 21 anos.
 -Estou estudando Front-End, mas claro que saio da curva e vejo diversas informações.👨‍💻
 
 -Fique a vontade para ver meus commits. ❤️‍🔥
-[Linkedin Alan Guimarães](https://www.linkedin.com/in/alan-guimaraes/)
+[Linkedin](https://www.linkedin.com/in/alan-guimaraes/)
 
  <div>
   <a href="https://github.com/Alan-guimaraes">
