@@ -6,7 +6,7 @@ Tenho 21 anos.
 
 -Faço faculdade de Análise e Desenvolvimento de Sistemas.🚀👨‍💻🚀
 
--Estou estudando Front-End, mas claro que saio da curva e vejo diversas informações.👨‍💻
+-Estou estudando desenvolvimento android, mas claro que saio da curva e vejo diversas informações.👨‍💻
 
 -Fique a vontade para ver meus commits. ❤️‍🔥
 
