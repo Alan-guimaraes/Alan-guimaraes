@@ -3,7 +3,7 @@
 Tenho 23 anos. 
 
 -Atualmente, estou trabalhando em um projeto desafiador na Quality, onde sou Analista de Suporte para um projeto do Grupo Boticário. Esta experiência me permitiu aprimorar minhas habilidades em suporte técnico e atendimento ao cliente, e estou sempre buscando novas maneiras de melhorar meu desempenho e contribuir para o sucesso do projeto.
-E também trabalho como motoboy por aplicativo Ifood.
+E no periodo da noite também trabalho como motoboy por aplicativo Ifood.
 
 -Faço faculdade de Análise e Desenvolvimento de Sistemas.
 
