@@ -1,6 +1,6 @@
 ## Olá, mundo! 👋 Me chamo Alan Guimarães!🧔🏻‍
 
-Tenho 21 anos. 
+Tenho 23 anos. 
 
 -Atualmente trabalho como motoboy por aplicativo Ifood  🏍️. Mas estou a procura de um emprego na minha área. ☀️✅
 
