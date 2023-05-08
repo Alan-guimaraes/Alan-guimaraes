@@ -2,13 +2,14 @@
 
 Tenho 23 anos. 
 
--Atualmente trabalho como motoboy por aplicativo Ifood  🏍️. Mas estou a procura de um emprego na minha área. ☀️✅
+-Atualmente, estou trabalhando em um projeto desafiador na Quality, onde sou Analista de Suporte para um projeto do Grupo Boticário. Esta experiência me permitiu aprimorar minhas habilidades em suporte técnico e atendimento ao cliente, e estou sempre buscando novas maneiras de melhorar meu desempenho e contribuir para o sucesso do projeto.
+E também trabalho como motoboy por aplicativo Ifood.
 
--Faço faculdade de Análise e Desenvolvimento de Sistemas.🚀👨‍💻🚀
+-Faço faculdade de Análise e Desenvolvimento de Sistemas.
 
 -Estou estudando desenvolvimento android, mas claro que saio da curva e vejo diversas informações.👨‍💻
 
--Fique a vontade para ver meus commits. ❤️‍🔥
+-Fique a vontade para ver meus commits.
 
 [Linkedin](https://www.linkedin.com/in/alan-guimaraes/)
 
